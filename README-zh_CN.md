@@ -2,7 +2,7 @@
 
 ![Phira Showcase](https://phira.5wyxi.com/files/github-showcase.png)
 
-##这他妈是啥？
+## 这他妈是啥？
 
 PhiraWayland是Phira的针对Wayland桌面的Linux用户的修改版本。本质上是对其引擎miniquad的魔改。
 这让它可以以纯Wayland运行，支持了多点触控，解决了触摸会被当成滑动又或是XWayland下只有单点触控的问题。
