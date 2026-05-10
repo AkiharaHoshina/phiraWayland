@@ -1,6 +1,6 @@
 # PhiraWayland
 
-![Phira Showcase](https://phira.5wyxi.com/files/github-showcase.png)
+![Phira Showcase](Screenshot from 2026-05-10 23-46-00.png)
 
 [中文版本](./README-zh_CN.md)
 
