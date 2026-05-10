@@ -1,6 +1,6 @@
 # PhiraWayland
-
-![Phira Showcase](https://phira.5wyxi.com/files/github-showcase.png)
+![PhiraWayland Showcase](https://github.com/AkiharaHoshina/phiraWayland/blob/b4c51c29ccf749843b5c34415e29450404c791cb/Screenshot%20from%202026-05-10%2023-46-00.png)
+*此图和assets文件夹内容不包含在发布的内容里。
 
 ## 这他妈是啥？
 
