@@ -1,6 +1,7 @@
 # PhiraWayland
 
 ![Screenshot from 2026-05-10 23-46-00.png](https://github.com/AkiharaHoshina/phiraWayland/blob/b4c51c29ccf749843b5c34415e29450404c791cb/Screenshot%20from%202026-05-10%2023-46-00.png)
+*This background file and all assets files is not included in releases.
 
 [中文版本](./README-zh_CN.md)
 
