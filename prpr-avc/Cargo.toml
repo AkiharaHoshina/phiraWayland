@@ -6,7 +6,7 @@ edition = "2021"
 [lib]
 
 [dependencies]
-thiserror = "2.0.18"
+thiserror = "2.0.19"
 tracing = { workspace = true }
 
 [target.'cfg(target_env = "ohos")'.dependencies]
